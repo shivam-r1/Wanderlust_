@@ -101,7 +101,7 @@ This project is a full-stack web application that replicates the core functional
 Clone the project
 
 ```bash
-  git clone https://github.com/Tarush5253/major-project
+  git clone https://github.com/shivam-r1/Wanderlust_
 ```
 
 Go to the project directory
