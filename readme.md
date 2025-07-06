@@ -83,7 +83,6 @@ This project is a full-stack web application that replicates the core functional
 ---
 ![App Screenshot](https://res.cloudinary.com/dnd5xffi3/image/upload/v1721544598/Wanderlust_Dev/cohnyqtaejlpjukrksrf.jpg)
 ---
-![App Screenshot](https://res.cloudinary.com/dnd5xffi3/image/upload/v1721544493/Wanderlust_Dev/z7l13auw36of3jrpbvlg.jpg)
 
 ## Mobile View
 ![App Screenshot](https://res.cloudinary.com/dnd5xffi3/image/upload/v1721544826/Wanderlust_Dev/dthfqwyid37adxmvfzwi.jpg)
